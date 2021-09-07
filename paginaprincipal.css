@@ -1,0 +1,43 @@
+. {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.h1 {
+  margin: 0;
+  padding: 0;
+  font-family: "calibri";
+}
+
+.h2 {
+  font-family: "calibri";
+}
+
+.h3 {
+  font-family: "calibri";
+}
+
+.a {
+  color: white;
+  text-decoration: underline;
+}
+
+.p {
+  height: 40px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 40px;
+}
+
+.Controls {
+  width: 100%;
+  background: #24303c;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #1f53c5;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: white;
+}
